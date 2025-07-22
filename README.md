@@ -1,2 +1,2 @@
-# RDS
+# Remote desktop service
                                                                Project in progress...
