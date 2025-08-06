@@ -184,7 +184,7 @@ This project demonstrates how to deploy **Remote Desktop Services (RDS)** using 
 
 **Junior Kalomba**  
 🌐 Portfolio: [https://juniorkalomba.netlify.app](https://juniorkalomba.netlify.app)  
-📁 GitHub: [github.com/yourusername](https://github.com/yourusername)
+📁 GitHub: [github.com/yourusername](https://github.com/Juniorklb)
 
 ---
 
