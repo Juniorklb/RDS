@@ -172,11 +172,6 @@ This project demonstrates how to deploy **Remote Desktop Services (RDS)** using 
 | `video/` (optional) | Live demo of RDP session |
 | `README.md` | This file |
 
----
-
-## 🔗 Live Demo (Optional)
-
-🎥 Watch the demo: [Link to YouTube or Drive](#)
 
 ---
 
